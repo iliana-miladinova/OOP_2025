@@ -1,0 +1,4 @@
+﻿  task06.cpp
+C:\Users\ACER\Desktop\OOP_2025\seminari\week03\task06\task06.cpp(40,14): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\ACER\Desktop\OOP_2025\seminari\week03\task06\task06.cpp(42,14): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  task06.vcxproj -> C:\Users\ACER\Desktop\OOP_2025\seminari\week03\task06\x64\Debug\task06.exe

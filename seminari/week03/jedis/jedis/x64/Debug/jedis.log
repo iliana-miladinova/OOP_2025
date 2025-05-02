@@ -1,0 +1,5 @@
+﻿  jedis.cpp
+C:\Users\ACER\Desktop\OOP_2025\seminari\week03\jedis\jedis.cpp(73,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\Desktop\OOP_2025\seminari\week03\jedis\jedis.cpp(208,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\Desktop\OOP_2025\seminari\week03\jedis\jedis.cpp(212,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  jedis.vcxproj -> C:\Users\ACER\Desktop\OOP_2025\seminari\week03\jedis\x64\Debug\jedis.exe

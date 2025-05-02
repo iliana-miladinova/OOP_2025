@@ -1,0 +1,7 @@
+﻿  task05_library.cpp
+C:\Users\ACER\Desktop\OOP_2025\seminari\week01\task05_library\task05_library.cpp(52,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\Desktop\OOP_2025\seminari\week01\task05_library\task05_library.cpp(62,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\Desktop\OOP_2025\seminari\week01\task05_library\task05_library.cpp(88,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\Desktop\OOP_2025\seminari\week01\task05_library\task05_library.cpp(59,1): warning C4715: 'getBookByTitle': not all control paths return a value
+C:\Users\ACER\Desktop\OOP_2025\seminari\week01\task05_library\task05_library.cpp(81,1): warning C4715: 'getStringFromGenre': not all control paths return a value
+  task05_library.vcxproj -> C:\Users\ACER\Desktop\OOP_2025\seminari\week01\task05_library\x64\Debug\task05_library.exe

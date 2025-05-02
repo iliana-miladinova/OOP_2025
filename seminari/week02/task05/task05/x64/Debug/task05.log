@@ -1,0 +1,5 @@
+﻿  task05.cpp
+C:\Users\ACER\Desktop\OOP_2025\seminari\week02\task05\task05.cpp(34,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\Desktop\OOP_2025\seminari\week02\task05\task05.cpp(49,41): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\Desktop\OOP_2025\seminari\week02\task05\task05.cpp(53,41): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  task05.vcxproj -> C:\Users\ACER\Desktop\OOP_2025\seminari\week02\task05\x64\Debug\task05.exe

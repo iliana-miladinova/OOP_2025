@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week02\\task01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23926D37-3FEE-417C-BD29-FD28545CACE4}|task01.vcxproj|C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week02\\task01\\task01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23926D37-3FEE-417C-BD29-FD28545CACE4}|task01.vcxproj|solutionrelative:task01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task01.cpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week02\\task01\\task01.cpp",
+              "RelativeDocumentMoniker": "task01.cpp",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week02\\task01\\task01.cpp",
+              "RelativeToolTip": "task01.cpp",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAUwGkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-04T15:32:21.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

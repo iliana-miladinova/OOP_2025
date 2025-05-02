@@ -1,0 +1,5 @@
+﻿  Baloon.cpp
+  task04.cpp
+  Generating Code...
+C:\Users\ACER\Desktop\OOP_2025\seminari\week04\task04\Baloon.cpp(78,1): warning C4715: 'Baloon::getTextFromColur': not all control paths return a value
+  task04.vcxproj -> C:\Users\ACER\Desktop\OOP_2025\seminari\week04\task04\x64\Debug\task04.exe
