@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\AnimalFarm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|solutionrelative:AnimalFarm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\AnimalFarm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|solutionrelative:AnimalFarm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\AnimalFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|solutionrelative:AnimalFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\AnimalFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|solutionrelative:AnimalFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\Dog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|solutionrelative:Dog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\Dog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|solutionrelative:Dog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\Pig.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|solutionrelative:Pig.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\Pig.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|solutionrelative:Pig.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\Cow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|solutionrelative:Cow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\Cow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|solutionrelative:Cow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|solutionrelative:Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\Animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6A77125-9FAA-4DFC-9DDF-586A692AF8D5}|AnimalFarm.vcxproj|solutionrelative:Animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimalFarm.cpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\AnimalFarm.cpp",
+              "RelativeDocumentMoniker": "AnimalFarm.cpp",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\AnimalFarm.cpp",
+              "RelativeToolTip": "AnimalFarm.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-06T11:45:52.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimalFarm.h",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\AnimalFarm.h",
+              "RelativeDocumentMoniker": "AnimalFarm.h",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\AnimalFarm.h",
+              "RelativeToolTip": "AnimalFarm.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-06T11:39:10.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnimalFactory.cpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\AnimalFactory.cpp",
+              "RelativeDocumentMoniker": "AnimalFactory.cpp",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\AnimalFactory.cpp",
+              "RelativeToolTip": "AnimalFactory.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-06T11:30:46.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnimalFactory.h",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\AnimalFactory.h",
+              "RelativeDocumentMoniker": "AnimalFactory.h",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\AnimalFactory.h",
+              "RelativeToolTip": "AnimalFactory.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-06T11:29:52.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dog.cpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\Dog.cpp",
+              "RelativeDocumentMoniker": "Dog.cpp",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\Dog.cpp",
+              "RelativeToolTip": "Dog.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-06T11:26:29.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dog.h",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\Dog.h",
+              "RelativeDocumentMoniker": "Dog.h",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\Dog.h",
+              "RelativeToolTip": "Dog.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-06T11:25:20.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pig.cpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\Pig.cpp",
+              "RelativeDocumentMoniker": "Pig.cpp",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\Pig.cpp",
+              "RelativeToolTip": "Pig.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-06T11:22:34.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pig.h",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\Pig.h",
+              "RelativeDocumentMoniker": "Pig.h",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\Pig.h",
+              "RelativeToolTip": "Pig.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-06T11:18:35.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cow.cpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\Cow.cpp",
+              "RelativeDocumentMoniker": "Cow.cpp",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\Cow.cpp",
+              "RelativeToolTip": "Cow.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-06T11:13:16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cow.h",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\Cow.h",
+              "RelativeDocumentMoniker": "Cow.h",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\Cow.h",
+              "RelativeToolTip": "Cow.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-06T11:11:34.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Animal.h",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\Animal.h",
+              "RelativeDocumentMoniker": "Animal.h",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\Animal.h",
+              "RelativeToolTip": "Animal.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-06T11:05:24.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Animal.cpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\Animal.cpp",
+              "RelativeDocumentMoniker": "Animal.cpp",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\Animal.cpp",
+              "RelativeToolTip": "Animal.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-06T11:09:45.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\OOP_2025\\seminari\\week12\\AnimalFarm\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-06T11:03:24.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
