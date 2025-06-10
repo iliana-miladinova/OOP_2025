@@ -1,0 +1,12 @@
+﻿  Collections.cpp
+  DynamicCollection.cpp
+  IntervalCollection.cpp
+  NormalCollection.cpp
+C:\Users\ACER\Desktop\OOP_2025\seminari\week11\Collections\NormalCollection.cpp(17,10): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Set.cpp
+  SortedCollection.cpp
+C:\Users\ACER\Desktop\OOP_2025\seminari\week11\Collections\SortedCollection.cpp(5,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\Desktop\OOP_2025\seminari\week11\Collections\SortedCollection.cpp(26,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ACER\Desktop\OOP_2025\seminari\week11\Collections\SortedCollection.cpp(49,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Collections.vcxproj -> C:\Users\ACER\Desktop\OOP_2025\seminari\week11\Collections\x64\Debug\Collections.exe
